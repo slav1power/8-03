@@ -15,7 +15,8 @@
 
 1) Готовый gitlab-ci.yml:
 
-tages:          
+```
+stages:          # List of stages for jobs, and their order of execution
   - test
 
 
@@ -24,6 +25,13 @@ test_go:
     image: golang:1.17
     script:
         - go test
+
+```
+
+
+
+
+---
 
 2) Скриншот с готовыми билдами
 
