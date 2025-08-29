@@ -6,7 +6,7 @@
 ### Задание 1
 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/commit/img.png)
+![alt text](https://github.com/slav1power/8-03/blob/main/jop.png)
 
 
 ---
