@@ -25,14 +25,7 @@ test_go:
     script:
         - go test
 
-....
-....
-....
-```
+2) Скриншот с готовыми билдами
 
-скриншот с выполненными билдами
 ![alt text](https://github.com/slav1power/8-03/blob/main/job2.png)
-
-
----
 
