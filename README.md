@@ -6,7 +6,7 @@
 ### Задание 1
 
 
-![Настроенный раннер]([ссылка на скриншот 1](https://github.com/slav1power/8-03/edit/main/jop.png))`
+![alt text](https://raw.githubusercontent.com/username/projectname/commit/img.png)
 
 
 ---
